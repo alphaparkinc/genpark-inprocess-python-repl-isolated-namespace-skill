@@ -1,0 +1,15 @@
+{
+  "name": "genpark-inprocess-python-repl-isolated-namespace-skill",
+  "version": "1.0.0",
+  "description": "In-process isolated Python namespace REPL executor with stdout/stderr capture, safe builtins restrictor, and runtime variable introspection.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "python-repl",
+    "code-sandbox",
+    "isolated-namespace",
+    "runtime-eval",
+    "genpark",
+    "mcp"
+  ]
+}
